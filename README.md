@@ -4,9 +4,9 @@
 
 ## Technologies Used
 
--HTML
--CSS
--Bootstrap
+* HTML
+* CSS
+* Bootstrap
 
 ## Description
 _A website for Amy Young's portfolio, with sections for project links, resume details, skills, and interests_
@@ -21,8 +21,9 @@ https://y0ung4my.github.io/Portfolio-Landing/
 
 ## Known Bugs
 
-_formatting of homepage sections have asymmetrical gaps and the general look can be improved_
-_text overlapping boxes when resized_
+* formatting of homepage sections have asymmetrical gaps
+* the general look can be improved_
+* text overlapping boxes when resized_
 
 ## License
 
