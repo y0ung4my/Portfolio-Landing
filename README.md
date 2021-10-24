@@ -22,8 +22,8 @@ https://y0ung4my.github.io/Portfolio-Landing/
 ## Known Bugs
 
 * formatting of homepage sections have asymmetrical gaps
-* the general look can be improved_
-* text overlapping boxes when resized_
+* the general look can be improved
+* text overlapping boxes when resized
 
 ## License
 
