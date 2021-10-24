@@ -16,9 +16,12 @@ _for using HTML/CSS template_
 1) open terminal
 2) enter the following into terminal: # git clone https://github.com/y0ung4my/Portfolio-Landing
 
+_To view in GitHub Pages_
+https://y0ung4my.github.io/Portfolio-Landing/
+
 ## Known Bugs
 
-_formatting of homepage sections have asymmetrical gaps_
+_formatting of homepage sections have asymmetrical gaps and the general look can be improved_
 
 ## License
 
