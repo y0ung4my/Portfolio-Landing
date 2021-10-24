@@ -49,15 +49,5 @@ img {
   background-color: lightslategray;
 }
 .highlight {
-  color:darkgray;
-}
-.box-4 {
-  width: 100%;
-  padding: 50px;
-  border: solid black;
-  border-width: 30px;
-  background-color: lightslategray;
-  margin-top: 100px;
-  margin-bottom: 20px;
-  box-sizing: border-box;
+  color:aqua;
 }
