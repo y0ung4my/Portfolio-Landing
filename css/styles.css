@@ -4,35 +4,29 @@ body {
   color:khaki;
   line-height: 17px;
 }
-
 h1 {
   font-weight:700;
   color:lavender;
   font-size: 50px;
 }
-
 h2 {
   color:lavenderblush;
   text-decoration: underline;
   text-align: center;
 }
-
 h3 {
   color: lavenderblush;
 }
-
 a {
   color:lavenderblush;
   text-decoration: underline;
 }
-
 img {
   max-width: 70%;
   margin: 20px;
   border: solid black;
   border-width: 20px;
 }
-
 .box-1 {
   width: 40%;
   margin-left: 20px;
@@ -44,23 +38,19 @@ img {
   float: left;
   text-align: center;
 }
-
 .col-6 {
   border: solid black;
   border-width: 20px;
   background-color: lightslategray;
 }
-
 .col-12 {
   border: solid black;
   border-width: 20px;
   background-color: lightslategray;
 }
-
 .highlight {
   color:darkgray;
 }
-
 .box-4 {
   width: 100%;
   padding: 50px;

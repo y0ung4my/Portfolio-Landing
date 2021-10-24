@@ -12,7 +12,7 @@
 _A website for Amy Young's portfolio, with sections for project links, resume details, skills, and interests_
 
 ## Setup/Installation Requirements
-_for using HTML/CSS template_
+_for using HTML/CSS as a template_
 1) open terminal
 2) enter the following into terminal: # git clone https://github.com/y0ung4my/Portfolio-Landing
 
@@ -21,8 +21,6 @@ https://y0ung4my.github.io/Portfolio-Landing/
 
 ## Known Bugs
 
-* formatting of homepage sections have asymmetrical gaps
-* the general look can be improved
 * text overlapping boxes when resized
 
 ## License
