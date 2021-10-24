@@ -46,6 +46,12 @@ img {
   background-color: lightslategray;
 }
 
+.col-8 {
+  border: solid black;
+  border-width: 20px;
+  background-color: lightslategray;
+  float: right;
+}
 .col-12 {
   border: solid black;
   border-width: 20px;
@@ -74,7 +80,7 @@ img {
   box-sizing: border-box;
   float: left;
 }
-
+*/
 .box-4 {
   width: 100%;
   padding: 50px;
@@ -83,5 +89,5 @@ img {
   background-color: lightslategray;
   margin-top: 100px;
   margin-bottom: 20px;
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
