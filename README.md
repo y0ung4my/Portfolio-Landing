@@ -4,21 +4,21 @@
 
 ## Technologies Used
 
-*HTML
-*CSS
-*Bootstrap
+-HTML
+-CSS
+-Bootstrap
 
 ## Description
 _A website for Amy Young's portfolio, with sections for project links, resume details, skills, and interests_
 
 ## Setup/Installation Requirements
 _for using HTML/CSS template_
-*open Git Bash
-*enter the following into terminal: # git clone https://github.com/y0ung4my/Portfolio-Landing
+1) open terminal
+2) enter the following into terminal: # git clone https://github.com/y0ung4my/Portfolio-Landing
 
 ## Known Bugs
 
-*_formatting of homepage sections have asymmetrical gaps_
+_formatting of homepage sections have asymmetrical gaps_
 
 ## License
 
