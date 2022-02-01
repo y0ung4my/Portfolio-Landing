@@ -21,7 +21,7 @@ https://y0ung4my.github.io/Portfolio-Landing/
 
 ## Known Bugs
 
-* text overlapping boxes when resized
+* none
 
 ## License
 
