@@ -1,6 +1,9 @@
 body {
   font-family: sans-serif;
   background-color: darkslategray;
+  background-image: url('../img/tree-roots.jpg');
+  background-position: center;
+  background-size: cover;
   color:khaki;
   line-height: 17px;
 }
@@ -22,12 +25,13 @@ a {
   text-decoration: underline;
 }
 img {
-  max-width: 70%;
+  max-height: 300px;
   margin: 20px;
+  opacity: 100%;
   border: solid black;
-  border-width: 20px;
+  border-width: 5px;
 }
-.box-1 {
+/* .box-1 {
   width: 40%;
   margin-left: 20px;
   padding: 50px;
@@ -37,17 +41,17 @@ img {
   box-sizing: border-box;
   float: left;
   text-align: center;
-}
-.col-6 {
+} */
+.col-6, .col-12 {
   border: solid black;
-  border-width: 20px;
+  border-width: 5px;
   background-color: lightslategray;
+  margin: 5px;
+  float: center;
+  opacity: 95%;
+  padding: 20px;
 }
-.col-12 {
-  border: solid black;
-  border-width: 20px;
-  background-color: lightslategray;
-}
+
 .highlight {
-  color:aqua;
+  color:blanchedalmond;
 }
